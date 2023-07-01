@@ -13,7 +13,7 @@ const config = {
 
 
   url: 'https://obsidiosaurus.com',
-  baseUrl: '/',
+  baseUrl: '/obsidiosaurus-docs/',
 
   organizationName: 'CIMSTA', 
   projectName: 'obsidiosaurus', 
