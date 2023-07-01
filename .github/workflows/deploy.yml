@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-      paths:
-      - '.github/workflows/deploy.yml'
-      - 'website/**'
 jobs:
   deploy:
     name: Deploy to GitHub Pages
