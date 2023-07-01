@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/main/2. Features/1. Overview+/overview__en.md",
+                "file": "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/2. Features/1. Overview+/overview__en.md",
+                "file": "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/2. Features/1. Overview+/overview__en.md",
+                "file": "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/main/2. Features/1. Overview+/overview__en.md"
+                "file": "release_notes__blog/2023-07-01_0.3+/0.3.0.md"
               }
             }
           }
@@ -159,9 +159,9 @@
   },
   "active": "8704731f83275ef1",
   "lastOpenFiles": [
-    "docs/main/2. Features/2. Roadmap+/roadmap__en.md",
     "docs/main/2. Features/1. Overview+/overview__en.md",
-    "release_notes__blog/2023-06-01_0.3+/0.3.0.md",
+    "docs/main/2. Features/2. Roadmap+/roadmap__en.md",
+    "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
     "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",

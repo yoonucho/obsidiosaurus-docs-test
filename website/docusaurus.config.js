@@ -16,7 +16,7 @@ const config = {
   baseUrl: '/',
 
   organizationName: 'cimsta', 
-  projectName: 'cimsta.github.io', 
+  projectName: 'obsidiosaurus', 
   trailingSlash: false,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
