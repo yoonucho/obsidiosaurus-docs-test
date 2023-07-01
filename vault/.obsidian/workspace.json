@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "release_notes__blog/2023-06-01_0.1+/Untitled.md",
+                "file": "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "release_notes__blog/2023-06-01_0.1+/Untitled.md",
+                "file": "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "release_notes__blog/2023-06-01_0.1+/Untitled.md",
+                "file": "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "release_notes__blog/2023-06-01_0.1+/Untitled.md"
+                "file": "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md"
               }
             }
           }
@@ -159,9 +159,12 @@
   },
   "active": "b209de2f81b78275",
   "lastOpenFiles": [
-    "release_notes__blog/2023-06-01_0.1+/0.3.0.md",
-    "release_notes__blog/2023-06-01_0.1+/Untitled.md",
+    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
+    "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+    "release_notes__blog/2023-06-01_0.3+/0.3.0.md",
+    "release_notes__blog/2023-06-01_0.3+/Untitled.md",
     "docs/main/2. Features/blog+/blog__en.md",
     "assets/obsidiosaurus_plugin_settings.png",
     "assets/obsidiosaurus_sidebar_icon.png",
@@ -191,9 +194,6 @@
     "docs/main/2. Features/diagrams+/diagrams__en.md",
     "docs/main/2. Features/callouts+/callouts__en.md",
     "docs/main/2. Features/2. Roadmap+/roadmap__en.md",
-    "docs/main/2. Features/1. Overview+/overview__md.md",
-    "docs/main/1. Get started/3. Deployment+/deployment__en.md",
-    "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/1. Get started/1. Installation/7. Create notes+",
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+",
     "docs/main/1. Get started/1. Installation/5. Website Structure+",

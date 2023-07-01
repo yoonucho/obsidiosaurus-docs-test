@@ -10,7 +10,8 @@ It translates the special Markdown syntax of Obsidian and converts your files so
 
 >[!danger] Development Version
 >Currently the tool is in a very early development version.
->#### Expect bugs and breaking changes!
+>## Always back up your important notes
+>## Expect bugs and breaking changes!
 
 ## Core Features
 
@@ -57,7 +58,6 @@ Obsidian’s features, such as automated link tracking and Excalidraw sketch emb
 #### ⏱️ **Feedback**
 Obsidiosaurus emphasises quick, accurate feedback. 
 With the Docusaurus preview mode, you can inspect your site and see the changes with the click of a button, ensuring satisfaction before publishing.
-
 
 ## Something missing or need help?
 
