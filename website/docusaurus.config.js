@@ -12,11 +12,11 @@ const config = {
   favicon: 'img/favicon.ico',
 
 
-  url: 'https://obsidiosaurus.com',
-  baseUrl: '/obsidiosaurus-docs/',
+  url: 'https://cimsta.github.io',
+  baseUrl: '/',
 
-  organizationName: 'CIMSTA', 
-  projectName: 'obsidiosaurus', 
+  organizationName: 'cimsta', 
+  projectName: 'cimsta.github.io', 
   trailingSlash: false,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
