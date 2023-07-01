@@ -124,7 +124,7 @@ const config = {
         {
           id: 'release_notes',
           routeBasePath: 'release_notes',
-          path: './release_notes',
+          path: './release_notes__blog',
         },
         
       ],
