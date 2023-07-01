@@ -17,7 +17,7 @@ const config = {
 
   organizationName: 'CIMSTA', 
   projectName: 'obsidiosaurus', 
-
+  trailingSlash: false,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
