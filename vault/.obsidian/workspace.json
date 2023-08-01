@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/main/2. Features+/features__en.md",
+                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/2. Features+/features__en.md",
+                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/2. Features+/features__en.md",
+                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/main/2. Features+/features__en.md"
+                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md"
               }
             }
           }
@@ -159,6 +159,13 @@
   },
   "active": "b209de2f81b78275",
   "lastOpenFiles": [
+    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
+    "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
+    "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
+    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+    "docs/main/0. Introduction+/introduction__de.md",
+    "docs/main/0. Introduction+/introduction__en.md",
+    "docs/main/2. Features+/features__en.md",
     "docs/main/1. Get started/0. quick_start+/quick_start__en.md",
     "docs/main/1. Get started/0. quick_start+/quick_start__en 1.md",
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en 1.md",
@@ -166,8 +173,6 @@
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en 1.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en 1.md",
     "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en 1.md",
-    "docs/main/0. Introduction+/introduction__en.md",
-    "docs/main/0. Introduction+/introduction__de.md",
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
     "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
@@ -176,13 +181,8 @@
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
     "release_notes__blog/2023-07-01_0.3+/0.3.0.md",
     "release_notes__blog/release.md",
-    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
-    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
-    "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
-    "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
     "docs/sidebar2/0. Single Language Structure/1. note2.md",
     "docs/sidebar2/0. Single Language Structure/0. note1.md",
-    "docs/main/2. Features+/features__en.md",
     "docs/main/2. Features/Search+/search__en.md",
     "docs/main/2. Features/blog+/blog__en.md",
     "assets/vs-code_new_terminal.png",

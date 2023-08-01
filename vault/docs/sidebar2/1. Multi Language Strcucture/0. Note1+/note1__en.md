@@ -1,4 +1,4 @@
-# Multi - Note 1 - EN
+# Multi - Note 1
 
 ## English
 

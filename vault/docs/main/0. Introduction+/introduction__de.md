@@ -2,7 +2,7 @@
 
 👋 Hallo und willkommen zum **Obsidiosaurus**!
 
-Das Tool, das die Stärken von [Obsidian.md] (https://obsidian.md/) und [Docusaurus] (https://docusaurus.io/docs) vereint.
+Das Tool, das die Stärken von [Obsidian.md](https://obsidian.md/) und [Docusaurus](https://docusaurus.io/docs) vereint.
 
 Obsidiosaurus fungiert als **Brücke**, die deinen Obsidian Vault mit dem Seitenerstellungsprogramm Docusaurus verbindet.
 
@@ -39,7 +39,7 @@ Vollgepackt mit einer Reihe von **ausgereiften Funktionen**🔥, bietet Obsidios
 - Mermaid-Diagramme 🧜‍♀️ und mathematische Gleichungen ➗
 
 Und das Beste daran ist, es ist **völlig kostenlos** für den persönlichen Gebrauch! 💸
-Für die kommerzielle Nutzung wird lediglich eine [Obsidian-Lizenz] (https://obsidian.md/pricing) für 50$ / Benutzer / Jahr benötigt.
+Für die kommerzielle Nutzung wird lediglich eine [Obsidian-Lizenz](https://obsidian.md/pricing) für 50$ / Benutzer / Jahr benötigt.
 
 ## Gestaltungsgrundsätze
 
@@ -61,4 +61,4 @@ Mit dem Vorschaumodus von Docusaurus kannst du daher deine Website überprüfen,
 
 ## Fehlt etwas oder brauchst du Hilfe?
 
-Für zusätzliche Informationen, Hilfe oder allgemeines Feedback, gerne auf [CIMSTA Discord Channel] (https://discord.gg/SSGK5tuqJh) oder starte eine [Github Discussion ](https://github.com/CIMSTA/obsidiosaurus/discussions)
+Für zusätzliche Informationen, Hilfe oder allgemeines Feedback, gerne auf [CIMSTA Discord Channel](https://discord.gg/SSGK5tuqJh) oder starte eine [Github Discussion ](https://github.com/CIMSTA/obsidiosaurus/discussions)

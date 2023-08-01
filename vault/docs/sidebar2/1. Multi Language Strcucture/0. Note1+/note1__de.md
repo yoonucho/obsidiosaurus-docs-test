@@ -1,4 +1,4 @@
-# Multi - Note 1 - DE
+# Multi - Note 1
 
 ## German
 
