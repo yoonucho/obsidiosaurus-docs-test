@@ -6,6 +6,6 @@
   "mainLanguage": "en",
   "convertedImageType": "webp",
   "convertedImageMaxWidth": "2500",
-  "debug": false,
+  "debug": true,
   "developer": false
 }

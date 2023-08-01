@@ -1,4 +1,0 @@
-# Blog
-
->[!danger]
-> ## WIP

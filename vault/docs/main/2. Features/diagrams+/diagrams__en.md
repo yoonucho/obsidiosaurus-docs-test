@@ -1,4 +1,0 @@
-# Diagrams.net
-
->[!danger]
-> ## WIP

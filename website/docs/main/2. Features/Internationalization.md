@@ -1,6 +1,0 @@
-
-# Internationalization
-
-:::danger
-
- ## WIP

@@ -19,10 +19,10 @@ If you want to directly write multiple language notes from you vault you have to
 ```
 sidebar
 ├── 1. First topic 
-│   ├── 1. First note+ // the '+' indicates contains multiple languages
+│   ├── 1. First note+ // the '+' indicates: contains multiple languages
 │   │   ├── first_note__en.md
 │   │   └── first_note__de.md
-│   └── 1. Second note+ // the '+' indicates contains multiple languages
+│   └── 1. Second note+ // the '+' indicates: contains multiple languages
 │       ├── second_note__en.md
 │       └── second_note__de.md
 └── 2. Second topic

@@ -1,7 +1,0 @@
-
-# Callouts
-
->[!danger]
-> ## WIP
-
-

@@ -31,7 +31,7 @@ Create a folder for your attachments.
 
 ###  4) Adjust Files & Links Settings
 
->[!note]
+>[!caution]
 >Several settings for your vault and plugins must be adjusted to use Obsidiosaurus effectively.
 >Follow the instructions precisely to avoid any misbehaviours. 
 

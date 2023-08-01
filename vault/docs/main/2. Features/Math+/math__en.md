@@ -1,4 +1,0 @@
-# Math
-
->[!danger]
-> ## WIP

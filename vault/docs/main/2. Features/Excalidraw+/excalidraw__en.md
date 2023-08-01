@@ -1,4 +1,0 @@
-# Excalidraw
-
->[!danger]
-> ## WIP

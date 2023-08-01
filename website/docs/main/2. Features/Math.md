@@ -1,5 +1,0 @@
-# Math
-
-:::danger
-
- ## WIP

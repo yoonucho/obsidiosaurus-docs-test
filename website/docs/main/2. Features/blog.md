@@ -1,5 +1,0 @@
-# Blog
-
-:::danger
-
- ## WIP

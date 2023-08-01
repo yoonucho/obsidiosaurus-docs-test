@@ -10,7 +10,7 @@ It translates the special Markdown syntax of Obsidian and converts your files so
 
 >[!danger] Development Version
 >Currently the tool is in a very early development version.
->## Always back up your important notes
+>## Always back up your important notes!
 >## Expect bugs and breaking changes!
 
 ## Core Features
@@ -48,7 +48,7 @@ Obsidiosaurus is built on the belief that content creators deserve to utilize th
 It integrates the best of both Obsidian and Docusaurus, providing a easy expendable platform for your website.
 
 #### 🎡 **Don't reinvent the wheel**
-By combining Obsidian and Docusaurus, Obsidiosaurus negates the need for custom editors or generators. 
+By combining Obsidian and Docusaurus, Obsidiosaurus it negates the need for custom editors or generators. 
 All the necessary tools are already at your disposal, making it perfect for structured content oriented websites.
 
 #### 🎯 **Content Focused** 

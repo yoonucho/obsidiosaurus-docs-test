@@ -1,5 +1,0 @@
-# Excalidraw
-
-:::danger
-
- ## WIP
