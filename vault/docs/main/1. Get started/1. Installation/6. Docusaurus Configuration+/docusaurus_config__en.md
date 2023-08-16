@@ -124,7 +124,7 @@ in the `themeConfig` Object add or adjust your plugins :
 			{
 			  id: 'second-blog',
 			  routeBasePath: 'second-blog',
-			  path: './second-blog', 
+			  path: './second-blog__blog', 
 			},
 		  ],
 		],

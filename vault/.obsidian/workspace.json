@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37355112d4b704ce",
+        "id": "f155b7855b68f351",
         "type": "tabs",
         "children": [
           {
-            "id": "b209de2f81b78275",
+            "id": "9e90a3ed101479db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+                "file": "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+                "file": "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+                "file": "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md"
+                "file": "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md"
               }
             }
           }
@@ -147,22 +147,22 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidiosaurus:Obsidiosaurus": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b209de2f81b78275",
+  "active": "9e90a3ed101479db",
   "lastOpenFiles": [
+    "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
+    "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
+    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
-    "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
     "docs/main/0. Introduction+/introduction__de.md",
     "docs/main/0. Introduction+/introduction__en.md",
     "docs/main/2. Features+/features__en.md",
@@ -173,8 +173,6 @@
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en 1.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en 1.md",
     "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en 1.md",
-    "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
-    "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
     "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
     "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
