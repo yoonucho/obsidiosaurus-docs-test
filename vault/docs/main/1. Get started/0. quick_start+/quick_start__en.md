@@ -1,7 +1,6 @@
 # Quick Start ⏱️
 
 Want to see Obsidiosaurus in action quickly? Follow this guide.
-
 ### Step 1: Install Essential Tools 🛠️
 
 First, we need to make sure you have the necessary tools installed. Confirm the successful installation by checking their versions (Write commands in Terminal)

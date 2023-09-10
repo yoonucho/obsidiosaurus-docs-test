@@ -1,0 +1,218 @@
+[
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/release_notes__blog/2023-07-01_0.3+/0.3.0.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/release_notes__blog/2023-07-01_0.3.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/sidebar2/1. Multi Language Strcucture/1. Note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/1. Multi Language Strcucture/1. Note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/sidebar2/1. Multi Language Strcucture/0. Note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/1. Multi Language Strcucture/0. Note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/0. Single Language Structure/0. note1.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/0. Single Language Structure/0. note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/0. Single Language Structure/1. note2.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/0. Single Language Structure/1. note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/2. Features+/0. features__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/2. Features.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/2. Features+/1. excalidraw.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/2. Features.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/_category_.yml.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/_category_.yml.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/3. Vercel+/vercel__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/3. Vercel.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/2. Netlify+/netfliy__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/2. Netlify.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/1. Github Pages+/github_pages__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/1. Github Pages.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/2. Usage+/usage__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/2. Usage.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/7. Create notes+/create_notes__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/7. Create notes.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/5. Website Structure.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/4. Vault Setup.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/3. Docusaurus Installation.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/2. Setup Git Repo.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/1. Required Tools.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/0. quick_start.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/0. Introduction+/introduction__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/main/0. Introduction.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/0. Introduction+/introduction__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/0. Introduction.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/authors.yml.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/authors.yml.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/2023-06-02/Post 2__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/2023-06-02/Post 2__en.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/2023-06-01/Post1__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/2023-06-01/Post1__en.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/release_notes__blog/2023-07-01_0.3+/0.3.0.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/release_notes__blog/2023-07-01_0.3.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/sidebar2/1. Multi Language Strcucture/1. Note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/1. Multi Language Strcucture/1. Note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/sidebar2/1. Multi Language Strcucture/0. Note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/1. Multi Language Strcucture/0. Note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/0. Single Language Structure/0. note1.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/0. Single Language Structure/0. note1.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/sidebar2/0. Single Language Structure/1. note2.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/sidebar2/0. Single Language Structure/1. note2.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/2. Features+/0. features__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/2. Features.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/2. Features+/1. excalidraw.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/2. Features.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/_category_.yml.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/_category_.yml.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/3. Vercel+/vercel__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/3. Vercel.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/2. Netlify+/netfliy__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/2. Netlify.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/3. Deployment/1. Github Pages+/github_pages__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/3. Deployment/1. Github Pages.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/2. Usage+/usage__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/2. Usage.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/7. Create notes+/create_notes__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/7. Create notes.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/6. Docusaurus Configuration.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/5. Website Structure.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/4. Vault Setup.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/3. Docusaurus Installation.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/2. Setup Git Repo.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/1. Installation/1. Required Tools.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/1. Get started/0. quick_start+/quick_start__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/1. Get started/0. quick_start.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/0. Introduction+/introduction__de.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/i18n/de/docusaurus-plugin-content-docs/current/main/0. Introduction.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/docs/main/0. Introduction+/introduction__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/docs/main/0. Introduction.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/authors.yml.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/authors.yml.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/2023-06-02/Post 2__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/2023-06-02/Post 2__en.md"
+  },
+  {
+    "sourcePath": "/Users/matthias/Git/obsidiosaurus-docs/vault/blog/2023-06-01/Post1__en.md",
+    "targetPath": "/Users/matthias/Git/obsidiosaurus-docs/website/blog/2023-06-01/Post1__en.md"
+  }
+]
