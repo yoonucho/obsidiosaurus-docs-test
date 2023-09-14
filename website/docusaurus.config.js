@@ -12,10 +12,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
 
-  url: 'https://cimsta.github.io',
-  baseUrl: '/obsidiosaurus-docs/',
+  url: 'https://yoonucho.github.io',
+  baseUrl: '/obsidiosaurus-docs-test/',
 
-  organizationName: 'cimsta', 
+  organizationName: 'yoonucho', 
   projectName: 'obsidiosaurus', 
   trailingSlash: false,
   onBrokenLinks: 'warn',
